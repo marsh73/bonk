@@ -1,1 +1,2 @@
 info
+Here's a hook test.
