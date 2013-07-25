@@ -1,3 +1,1 @@
-info
-Here's a hook test.
-And some more
+Bonk!
